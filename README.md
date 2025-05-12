@@ -57,7 +57,7 @@ Faça o upload do código para a placa.
 Certifique-se de conectar os resistores aos LEDs (220Ω recomendados).
 
 ## 📷 Demonstração
-[Descrição da imagem](caminho/para/imagem.jpg)
+[Prototipo VanGuard](Arduino.jpg)
 
 ## 👨‍💻 Autores
 Gabriel Henrique Santos  
