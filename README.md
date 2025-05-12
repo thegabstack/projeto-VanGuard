@@ -57,7 +57,7 @@ Faça o upload do código para a placa.
 Certifique-se de conectar os resistores aos LEDs (220Ω recomendados).
 
 ## 📷 Demonstração
-(Imagens ou GIFs do protótipo podem ser inseridos aqui)
+[Descrição da imagem](caminho/para/imagem.jpg)
 
 ## 👨‍💻 Autores
 Gabriel Henrique Santos  
