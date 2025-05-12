@@ -32,3 +32,39 @@ Clone este repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/VanGuard.git
+```
+
+Abra o código no Arduino IDE.
+
+Instale a biblioteca Adafruit_PN532:
+
+1. Vá em **Sketch** > **Include Library** > **Manage Libraries**.
+2. Pesquise por "PN532" e instale a biblioteca da Adafruit.
+
+Conecte o Arduino à porta USB do computador.
+
+Faça o upload do código para a placa.
+
+## 🔗 Conexões do Hardware
+
+| Componente          | Pinagem Arduino                  |
+|---------------------|-----------------------------------|
+| PN532 (I2C)         | SDA → A4, SCL → A5                |
+| LED Verde           | Pino 4                            |
+| LED Vermelho        | Pino 3                            |
+| GND/5V              | Conforme necessidade             |
+
+Certifique-se de conectar os resistores aos LEDs (220Ω recomendados).
+
+## 📷 Demonstração
+(Imagens ou GIFs do protótipo podem ser inseridos aqui)
+
+## 👨‍💻 Autores
+Gabriel Henrique Santos  
+[LinkedIn](https://www.linkedin.com/in/seu-usuario) | [GitHub](https://github.com/seu-usuario)
+
+## 📄 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+```
+
+Esse formato vai exibir corretamente no seu `README.md` no GitHub, com títulos, listas, tabelas e blocos de código bem organizados.
