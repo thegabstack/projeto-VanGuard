@@ -61,10 +61,7 @@ Certifique-se de conectar os resistores aos LEDs (220Ω recomendados).
 
 ## 👨‍💻 Autores
 Gabriel Henrique Santos  
-[LinkedIn](https://www.linkedin.com/in/seu-usuario) | [GitHub](https://github.com/seu-usuario)
+[LinkedIn](http://www.linkedin.com/in/gabriel-henrique-santos-dev)
 
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-```
-
-Esse formato vai exibir corretamente no seu `README.md` no GitHub, com títulos, listas, tabelas e blocos de código bem organizados.
